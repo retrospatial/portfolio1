@@ -12,4 +12,4 @@ I recently completed the Lede Program for Data Journalism at Columbia University
 <br><br>
 I am currently developing a freelance piece on fandom and fanfiction trends for <a href="https://pudding.cool/">The Pudding</a>. Fun fact, The Pudding kickstarted my interest in data journalism!
 <br><br>
-<span class="icon">↬</span> <a href="https://retrospatial.github.io/assets/files/resume.pdf" class="resume">RESUME</a>
+<span class="icon">↬</span> <a href="https://retrospatial.github.io/assets/files/Florina%20Sutanto_Resume.pdf" class="resume">RESUME</a>
