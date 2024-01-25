@@ -99,6 +99,7 @@ figcaption {
   height: auto;
   padding: 0 3rem;
   margin: 1em auto; /* Adjust the margin for spacing */
+  text-align: center;
 }
 
 /* Use media query to change layout on tablet-sized screens */
@@ -118,7 +119,7 @@ figcaption {
 .text-container p {
   margin: 0; 
   text-align: center;
-  
+
 }
 
 .text-container code {
@@ -131,6 +132,7 @@ figcaption {
   padding: 0.25em 0.5em;
   border-radius: 8px;
   max-width: 35vw;
+  
 
   @media (min-width: $on-desktop) {
     font-size: 0.7em;
