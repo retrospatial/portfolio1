@@ -98,14 +98,14 @@ figcaption {
   width: 100%;
   height: auto;
   padding: 0 3rem;
-  margin: 1em auto; /* Adjust the margin for spacing */
+  margin: 1em auto; 
   text-align: center;
 }
 
 /* Use media query to change layout on tablet-sized screens */
 @media (max-width: $on-tablet) {
   .image-container {
-    order: 1; /* Move image container to the top */
+    order: 1; 
   }
 }
 
