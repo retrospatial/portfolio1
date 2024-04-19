@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.gem
 .bundle
 .sass-cache
@@ -6,3 +7,15 @@ _site
 Gemfile.lock
 
 
+=======
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+>>>>>>> da4060f91c7780cc4ad1928e67866f0d8b4ff289
