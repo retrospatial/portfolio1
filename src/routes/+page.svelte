@@ -1,4 +1,3 @@
-
 <script>
     // images
     import fandometrics from '../assets/images/fandometrics.gif';
